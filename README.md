@@ -1,0 +1,2 @@
+# bitMinds
+chat with gpt
